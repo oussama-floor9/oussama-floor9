@@ -32,7 +32,7 @@ Oussama BOUHENNICHE</a></h1>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/oussama-floor9">
 		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		  <a style="margin-left: 5px;" target="_blank" href="https://github.com/oussama-floor9/oussama-floor9/blob/main/oussama-bouhenniche.pdf">
-					<img width="50" height="50" src="https://img.icons8.com/clouds/100/resume.png" alt="resume"/></a>
+					<img width="42" height="42" src="https://img.icons8.com/plasticine/100/resume.png" alt="resume"/></a>
       </div>
 
 </p>
