@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://oussama-bouhenniche.netlify.app/" target="_blank">
+<h1 align="center">Hi 👋, I'm <a href="https://oussama-bouhenniche.netlify.app" target="blank">
 Oussama BOUHENNICHE</a></h1>
 <h3 align="center">A Mathematician and Web Developer</h3>
 
