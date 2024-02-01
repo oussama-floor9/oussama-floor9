@@ -72,7 +72,7 @@ Oussama BOUHENNICHE</a></h1>
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://vuejs.org/" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D">
   </a>
   &emsp;
