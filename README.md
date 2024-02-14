@@ -8,7 +8,7 @@ Oussama BOUHENNICHE</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Student in the CSMI program at the University of Strasbourg
+- 🔭 I’m currently Master's 1 Student in the CSMI (Scientific Computing and Mathematics of Innovation) program at the University of Strasbourg 
 
 - 🌱 I’m currently learning high performance computing and EDP numerical solving.
   
