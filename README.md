@@ -46,7 +46,7 @@ Connect with me 🤝
   <a href="https://github.com/oussama-floor9" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"/>
   </a>
-  <a href="https://github.com/oussama-floor9/oussama-floor9/blob/main/oussama-bouhenniche.pdf" target="_blank">
+  <a href="https://github.com/user-attachments/files/25199034/CV_BOUHENNICHE_OUSSAMA.pdf" target="_blank">
     <img width="42" height="42" src="https://img.icons8.com/plasticine/100/resume.png"/>
   </a>
 </p>
