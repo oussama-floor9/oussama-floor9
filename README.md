@@ -29,7 +29,7 @@ Applied Mathematics & Scientific Computing
 
 - 📫 Contact: **oussamabouhenniche14@gmail.com**
 
-- 📄 CV: [Download resume](https://github.com/oussama-floor9/oussama-floor9/blob/main/oussama-bouhenniche.pdf)
+- 📄 CV: [Download resume](https://github.com/user-attachments/files/25199034/CV_BOUHENNICHE_OUSSAMA.pdf)
 
 - 🔗 Website: [oussama-bouhenniche.netlify.app](https://oussama-bouhenniche.netlify.app)
 
